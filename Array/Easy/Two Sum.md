@@ -43,4 +43,4 @@ class Solution {
 }
 ```
 
-Beats 80.31%
+Beats 80.31% 
