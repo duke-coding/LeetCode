@@ -15,8 +15,8 @@
 
 ### Array(数组)
 
-| ID   | Difficulty |                  Title                   |                  Python                  |
-| ---- | :--------: | :--------------------------------------: | :--------------------------------------: |
+| ID   | Difficulty |                  Title                   |                  Python                  |                  Java
+| ---- | :--------: | :--------------------------------------: | :--------------------------------------: |:--------------------------------------:
 | 1   |    Easy    | Two Sum                  | [Python](https://github.com/duke-coding/LeetCode/blob/master/Array/Easy/1.Two%20Sum.md "悬停显示") |
 | 11   |   Medium    | Container With Most Water                 | [Python](https://github.com/duke-coding/LeetCode/blob/master/Array/Medium/11.Container%20With%20Most%20Water.md "悬停显示") |
 
